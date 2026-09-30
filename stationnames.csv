@@ -1,0 +1,296 @@
+names,filterednames
+Aalsmeer,aalsmeer
+Aalten,aalten
+Alkmaar,alkmaar
+Almelo,almelo
+Almere Buiten,almerebuiten
+Almere Centrum,almerecentrum
+Almere Oostvaarders,almereoostvaarders
+Alphen aan den Rijn,alphenaandenrijn
+Amersfoort,amersfoort
+Amersfoort Schothorst,amersfoortschothorst
+Amsterdam Amstel,amsterdamamstel
+Amsterdam ArenA,amsterdamarena
+Amsterdam Centraal,amsterdamcentraal
+Amsterdam Holendrecht,amsterdamholendrecht
+Amsterdam Lelylaan,amsterdamlelylaan
+Amsterdam Muiderpoort,amsterdammuiderpoort
+Amsterdam RAI,amsterdamrai
+Amsterdam Europaboulevard,amsterdameuropaboulevard
+Amsterdam Science Park,amsterdamsciencepark
+Amsterdam Sloterdijk,amsterdamsloterdijk
+Amsterdam Zuid,amsterdamzuid
+Anna Paulowna,annapaulowna
+Apeldoorn,apeldoorn
+Appingedam,appingedam
+Arnhem Centraal,arnhemcentraal
+Arnhem Presikhaaf,arnhempresikhaaf
+Arnhem Velperpoort,arnhemvelperpoort
+Assen,assen
+Baarn,baarn
+Barendrecht,barendrecht
+Barneveld Centrum,barneveldcentrum
+Barneveld Noord,barneveldnoord
+Beesd,beesd
+Belfeld,belfeld
+Best,best
+Beverwijk,beverwijk
+Bilthoven,bilthoven
+Blerick,blerick
+Bloemendaal,bloemendaal
+Bodegraven,bodegraven
+Boxmeer,boxmeer
+Boxtel,boxtel
+Breda,breda
+Buitenpost,buitenpost
+Bunde,bunde
+Bussum Zuid,bussumzuid
+Capelle Schollevaar,capelleschollevaar
+Castricum,castricum
+Chevremont,chevremont
+Coevorden,coevorden
+Cuijk,cuijk
+Culemborg,culemborg
+Dalen,dalen
+Dalfsen,dalfsen
+De Vink,devink
+Delft,delft
+Den Haag Centraal,denhaagcentraal
+Den Haag HS,denhaaghs
+Den Haag Laan van NOI,denhaaglaanvannoi
+Den Haag Moerwijk,denhaagmoerwijk
+Deventer,deventer
+Deventer Colmschate,deventercolmschate
+Didam,didam
+Dieren,dieren
+Diemen,diemen
+Diemen Zuid,diemenzuid
+Dodewaard,dodewaard
+Dordrecht,dordrecht
+Dordrecht Stadspolders,dordrechtstadspolders
+Dordrecht Zuid,dordrechtzuid
+Driebergen-Zeist,driebergenzeist
+Driehuis,driehuis
+Dronryp,dronryp
+Duivendrecht,duivendrecht
+Echt,echt
+Ede Centrum,edecentrum
+Ede-Wageningen,edewageningen
+Eijsden,eijsden
+Eindhoven,eindhoven
+Eindhoven Strijp-S,eindhovenstrijps
+Eindhoven Stadion,eindhovenstadion
+Elst,elst
+Emmen,emmen
+Emmen Zuid,emmenzuid
+Enkhuizen,enkhuizen
+Enschede,enschede
+Enschede Drienerlo,enschededrienerlo
+Ermelo,ermelo
+Etten-Leur,ettenleur
+Eygelshoven Markt,eygelshovenmarkt
+Eygelshoven Centrum,eygelshovencentrum
+Falkenberg,falkenberg
+Franeker,franeker
+Gaanderen,gaanderen
+Geldermalsen,geldermalsen
+Geldrop,geldrop
+Geleen Oost,geleenoost
+Geleen Lutterade,geleenlutterade
+Gilze-Rijen,gilzerijen
+Glimmen,glimmen
+Goes,goes
+Gorinchem,gorinchem
+Gouda: https,goudahttps
+Gouda Goverwelle,goudagoverwelle
+Gramsbergen,gramsbergen
+Grathem,grathem
+‘s-Gravenhage Centraal,sgravenhagecentraal
+‘s-Gravenhage Hollands Spoor,sgravenhagehollandsspoor
+‘s-Gravenhage Laan van NOI,sgravenhagelaanvannoi
+‘s-Gravenhage Moerwijk,sgravenhagemoerwijk
+Groningen,groningen
+Groningen Europapark,groningeneuropapark
+Grou-Jirnsum,groujirnsum
+Haarlem,haarlem
+Haarlem Spaarnwoude,haarlemspaarnwoude
+Halfweg-Zwanenburg,halfwegzwanenburg
+Harderwijk,harderwijk
+Hardinxveld-Giessendam,hardinxveldgiessendam
+Harlingen,harlingen
+Harlingen Haven,harlingenhaven
+Heemskerk,heemskerk
+Heemstede-Aerdenhout,heemstedeaerdenhout
+Heerenveen,heerenveen
+Heerenveen IJsstadion,heerenveenijsstadion
+Heerhugowaard,heerhugowaard
+Heerlen,heerlen
+Heerlen de Kissel,heerlendekissel
+Heerlen Woonboulevard,heerlenwoonboulevard
+Heeze,heeze
+Heiloo,heiloo
+Helmond,helmond
+Helmond Brouwhuis,helmondbrouwhuis
+Helmond ’t Hout,helmondthout
+Helmond Brandevoort,helmondbrandevoort
+IJlst,ijlst
+IJmuiden,ijmuiden
+IJmuiden aan Zee,ijmuidenaanzee
+Kampen,kampen
+Kapelle-Biezelinge,kapellebiezelinge
+Kerkrade Centrum,kerkradecentrum
+Kerkrade West,kerkradewest
+Klimmen-Ransdaal,klimmenransdaal
+Klarenbeek,klarenbeek
+Koudum-Molkwerum,koudummolkwerum
+Krabbendijke,krabbendijke
+Kropswolde,kropswolde
+Kruiningen-Yerseke,kruiningenyerseke
+Lage Zwaluwe,lagezwaluwe
+Lamswaarde,lamswaarde
+Landgraaf,landgraaf
+Landsmeer,landsmeer
+Langweer,langweer
+Leeuwarden,leeuwarden
+Leeuwarden Camminghaburen,leeuwardencamminghaburen
+Leeuwarden Achter de Hoven,leeuwardenachterdehoven
+Leiden Centraal,leidencentraal
+Leiden Lammenschans,leidenlammenschans
+Lelystad Centrum,lelystadcentrum
+Lelystad Zuid,lelystadzuid
+Lichtenvoorde-Groenlo,lichtenvoordegroenlo
+Lochem,lochem
+Loppersum,loppersum
+Maarheeze,maarheeze
+Maarssen,maarssen
+Maarssenbroek,maarssenbroek
+Maassluis,maassluis
+Maassluis West,maassluiswest
+Maastricht,maastricht
+Maastricht Noord (nu Maastricht Randwyck),maastrichtnoordnumaastrichtrandwyck
+Mantgum,mantgum
+Mariënberg,mariënberg
+Meerssen,meerssen
+Meppel,meppel
+Middelburg,middelburg
+Mook Molenhoek,mookmolenhoek
+Naarden-Bussum,naardenbussum
+Nieuw Amsterdam,nieuwamsterdam
+Nieuw Vennep,nieuwvennep
+Nieuwerkerk a/d IJssel,nieuwerkerkadijssel
+Nijkerk,nijkerk
+Nijmegen,nijmegen
+Nijmegen Dukenburg,nijmegendukenburg
+Nijmegen Heyendaal,nijmegenheyendaal
+Nijverdal,nijverdal
+Nunspeet,nunspeet
+Obdam,obdam
+Oisterwijk,oisterwijk
+Oldenzaal,oldenzaal
+Olst,olst
+Ommen,ommen
+Oosterbeek,oosterbeek
+Opheusden,opheusden
+Oss,oss
+Oss West,osswest
+Oudenbosch,oudenbosch
+Overveen,overveen
+Purmerend,purmerend
+Purmerend Overwhere,purmerendoverwhere
+Purmerend Weidevenne,purmerendweidevenne
+Putten,putten
+Ravenstein,ravenstein
+Reuver,reuver
+Rheden,rheden
+Rhenen,rhenen
+Rijssen,rijssen
+Rilland-Bath,rillandbath
+Roermond,roermond
+Rotterdam Alexander,rotterdamalexander
+Rotterdam Bergweg,rotterdambergweg
+Rotterdam Blaak,rotterdamblaak
+Rotterdam Centraal,rotterdamcentraal
+Rotterdam Lombardijen,rotterdamlombardijen
+Rotterdam Noord,rotterdamnoord
+Rotterdam Stadion,rotterdamstadion
+Rotterdam Zuid,rotterdamzuid
+Santpoort Noord,santpoortnoord
+Santpoort Zuid,santpoortzuid
+Sassenheim,sassenheim
+Sauwerd,sauwerd
+Schagen,schagen
+Scheemda,scheemda
+Schiedam Centrum,schiedamcentrum
+Schiedam Nieuwland,schiedamnieuwland
+Schin op Geul,schinopgeul
+Schiphol Airport,schipholairport
+Schothorst,schothorst
+Sittard,sittard
+Sneek,sneek
+Soest,soest
+Soest Zuid,soestzuid
+Spaubeek,spaubeek
+Stavoren,stavoren
+Stedum,stedum
+Steenwijk,steenwijk
+Stiens,stiens
+Swalmen,swalmen
+Tegelen,tegelen
+Terborg,terborg
+Tiel,tiel
+Tilburg,tilburg
+Tilburg Reeshof,tilburgreeshof
+Twello,twello
+Uitgeest,uitgeest
+Uithuizen,uithuizen
+Uithuizermeeden,uithuizermeeden
+Utrecht Centraal,utrechtcentraal
+Utrecht Leidsche Rijn,utrechtleidscherijn
+Utrecht Overvecht,utrechtovervecht
+Utrecht Terwijde,utrechtterwijde
+Utrecht Vaartsche Rijn,utrechtvaartscherijn
+Valkenburg,valkenburg
+Varsseveld,varsseveld
+Veendam,veendam
+Veenendaal Centrum,veenendaalcentrum
+Veenendaal West,veenendaalwest
+Velp,velp
+Venlo,venlo
+Venray,venray
+Vleuten,vleuten
+Vlissingen,vlissingen
+Vlissingen Souburg,vlissingensouburg
+Voorburg,voorburg
+Voorhout,voorhout
+Voorschoten,voorschoten
+Voorst-Empe,voorstempe
+Vorden,vorden
+Vught,vught
+Waddinxveen,waddinxveen
+Waddinxveen Noord,waddinxveennoord
+Weener,weener
+Weert,weert
+Weesp,weesp
+Wierden,wierden
+Wijchen,wijchen
+Wijhe,wijhe
+Winschoten,winschoten
+Winsum,winsum
+Winterswijk,winterswijk
+Wolvega,wolvega
+Workum,workum
+Wormerveer,wormerveer
+Zaandam,zaandam
+Zaandam Kogerveld,zaandamkogerveld
+Zaandijk Zaanse Schans,zaandijkzaanseschans
+Zaltbommel,zaltbommel
+Zandvoort aan Zee,zandvoortaanzee
+Zetten-Andelst,zettenandelst
+Zevenaar,zevenaar
+Zevenbergen,zevenbergen
+Zoetermeer,zoetermeer
+Zoetermeer Oost,zoetermeeroost
+Zuidhorn,zuidhorn
+Zutphen,zutphen
+Zwaagwesteinde,zwaagwesteinde
+Zwolle,zwolle
